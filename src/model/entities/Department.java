@@ -12,7 +12,7 @@ import java.util.Objects;
  * @author User
  */
 public class Department implements Serializable{
-    private static final long serialVersionUID=1l;
+    private static final long serialVersionUID=1L;
     
     private Integer Id;
     private String name;
